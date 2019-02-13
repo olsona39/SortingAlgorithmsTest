@@ -1,0 +1,4 @@
+Sorting time results
+MergeSort: 68104 nanoseconds.
+Quicksort: 16620 nanoseconds.
+Testing concluded.
